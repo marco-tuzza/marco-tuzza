@@ -1,4 +1,4 @@
-### Hi, I'm Marco, Jr Full Stack Web Developer 💻
+### <h1 text-align=c"center">Hi, I'm Marco, Jr Full Stack Web Developer 💻</h1>
 
 <!--
 **marco-tuzza/marco-tuzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
