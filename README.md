@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Marco!
-I'm a developer passionate about technology and programming, always looking for new challenges. I enjoy exploring and experimenting with new languages and tools.
+I'm a Wev Developer passionate about technology and programming, always looking for new challenges. I enjoy exploring and experimenting with new languages and tools.
 
 ### 💼 Experience
 - **Analyst Consultant** at *Capgemini* (January 2023 - Present)  
