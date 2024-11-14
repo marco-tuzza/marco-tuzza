@@ -9,7 +9,6 @@ I'm a Wev Developer passionate about technology and programming, always looking 
   I provided customer support and solved website issues, improving user experience and optimizing performance. I implemented SEO strategies, resulting in an average 10% increase in organic traffic, and collaborated on UI design for consistent cross-device experiences. I also ensured platform security and privacy.
 
 ### 📫 Contact Me
-- **Email**: marcotuzza@hotmail.it
 - **LinkedIn**: [marco-tuzza](https://www.linkedin.com/in/marco-tuzza/)
 
 ### 🛠️ Languages and Frameworks
